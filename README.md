@@ -1,2 +1,6 @@
-# web-335
-WEB335 - Introduction to NoSQL
+# web-340
+Introduction to NoSQL
+
+# contributors
+Richard Krasso - Bellevue University  
+Emily Richter - Bellevue University
