@@ -1,0 +1,30 @@
+
+{
+    "customers":[
+    {
+        "_id":1,
+        "first_name":"John",
+        "last_name":"Smith",
+        "date_of_birth":"1988-03-25-T12:00:00.000-5:00",
+        "user_name":"jsmith88",
+
+        "invoices":[
+            {
+                "_id":99,
+                "date_created":"2020-05-08-T12:00:00.000-5:00",
+                "date_shipped":"2020-05-10-T12:00:00.000-5:00",
+                "subtotal":13.50,
+                "tax":1.37,
+                "total":14.87,
+
+                "line_items":[
+                    {
+                        "_id":15,
+                        "name":"random item",
+                        "price":13.50,
+                        "quantity":1
+                    }
+                ]
+            }
+        ]}
+]}

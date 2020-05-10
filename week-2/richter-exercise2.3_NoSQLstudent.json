@@ -1,0 +1,25 @@
+
+{
+    "students":[
+    {
+        "_id":32,
+        "first_name":"Jane",
+        "last_name":"Smith",
+        "mi":"M",
+
+        "enroll":[
+        {
+            "_id":55,
+            "grade":10,
+
+            "classes":[
+            {
+                "_id":1,
+                "name":"web-335"
+            }
+            ]
+        }
+        ]
+    }
+    ]
+}
