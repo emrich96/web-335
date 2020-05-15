@@ -1,0 +1,14 @@
+{
+    "permissions":[
+    {
+        "permission_name":"read-write",
+        "link_role_permissions":[
+        {
+            "role_name":"admin",
+            "link_user_roles":[
+            {
+                "user_name":"jsmith88"
+            }]
+        }]
+    }]
+}

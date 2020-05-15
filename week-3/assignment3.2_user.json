@@ -1,0 +1,14 @@
+{
+    "users":[
+    {
+        "user_name":"jsmith88",
+        "link_user_roles":[
+        {
+            "role_name":"admin",
+            "link_role_permissions":[
+            {
+                "permission":"read-write"
+            }]
+        }]
+    }]
+}

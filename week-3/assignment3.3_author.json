@@ -1,0 +1,18 @@
+{
+    "author_first_name":"John",
+    "author_last_name":"Green",
+    "author_phone":"978-462-0123",
+    "author_email":"jgreen@example.com",
+
+    "books":[{
+        "book_isbn":9780142402511,
+        "book_name":"Looking for Alaska",
+        "book_price":9.99,
+
+        "publisher":[{
+            "publisher_name":"Dutton Juvenile",
+            "publisher_code":1,
+            "publisher_address":[{"city":"Boston"}]
+        }]
+    }]
+}
