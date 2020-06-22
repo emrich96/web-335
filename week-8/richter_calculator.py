@@ -1,3 +1,8 @@
+# Title: Exercise 8.3
+# Author: Emily Richter
+# Date:  19 June 2020
+# Description: Python Calculator
+
 first_name='Emily'
 last_name='Richter'
 print(first_name+' '+last_name)

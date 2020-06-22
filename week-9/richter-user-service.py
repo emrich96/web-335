@@ -1,3 +1,8 @@
+# Title: Exercise 9.2
+# Author: Emily Richter
+# Date:  22 June 2020
+# Description: Creating and querying documents through Python
+
 first_name='Emily'
 last_name='Richter'
 print(first_name+' '+last_name)

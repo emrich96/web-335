@@ -1,3 +1,8 @@
+# Title: Exercise 9.3
+# Author: Emily Richter
+# Date:  22 June 2020
+# Description: Updating documents through Python
+
 first_name='Emily'
 last_name='Richter'
 print(first_name+' '+last_name)
